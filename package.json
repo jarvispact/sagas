@@ -1,0 +1,29 @@
+{
+  "name": "sagas",
+  "version": "0.0.1",
+  "description": "a library to handle distributed transactions in node via the saga pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarvispact/sagas.git"
+  },
+  "keywords": [
+    "saga",
+    "distributed",
+    "transaction"
+  ],
+  "author": "jarvispact <jarvispact@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarvispact/sagas/issues"
+  },
+  "homepage": "https://github.com/jarvispact/sagas#readme",
+  "devDependencies": {
+    "eslint": "^4.18.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  }
+}
